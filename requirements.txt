@@ -1,0 +1,8 @@
+streamlit
+plotly
+pandas
+openpyxl
+scipy
+pyodbc
+scikit-learn
+pymupdf
